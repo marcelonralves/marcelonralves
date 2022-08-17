@@ -1,6 +1,6 @@
 ## Opa! Eu sou Marcelo. Tudo tranquilo?
 
-Desenvolvedor back-end, graduado em Sistemas de Informação, atualmente estou procurando o primeiro emprego na área back-end. Abaixo você confere as tecnologias que eu já uso e quais eu estou estudando. Eu também estou aprendendo mais sobre SOLID e TDD, e procuro sempre aplicar nos meus repositórios.
+Desenvolvedor back-end, graduado em Sistemas de Informação. Abaixo você confere as tecnologias que eu já uso e quais eu estou estudando. Eu também estou aprendendo mais sobre SOLID e TDD, e procuro sempre aplicar nos meus repositórios.
 
 ## Stack
 
