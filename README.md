@@ -1,6 +1,6 @@
 ## Opa! Eu sou Marcelo. Tudo tranquilo?
 
-Desenvolvedor back-end, graduado em Sistemas de Informação. Abaixo você confere as tecnologias que eu já uso e quais eu estou estudando. Eu também estou aprendendo mais sobre SOLID e TDD, e procuro sempre aplicar nos meus repositórios.
+Desenvolvedor back-end, graduado em Sistemas de Informação. Abaixo você confere as tecnologias que eu já uso e quais eu estou estudando.
 
 ## Stack
 
@@ -8,7 +8,7 @@ Desenvolvedor back-end, graduado em Sistemas de Informação. Abaixo você confe
 
 
 ## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 
 ## Onde me encontrar?
 <div>
